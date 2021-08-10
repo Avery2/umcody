@@ -1,6 +1,6 @@
 # Hi, I'm Cody Um 👋
 
-I'm currently a computer scientce student at the Universtiy of Wisconsin-Madison. I spent this summer working as a software engineer intern at Roku.
+I'm currently a computer science major at the University of Wisconsin-Madison. I spent this summer working as a software engineer intern at [Roku](https://www.roku.com/).
 
 <div align="center">
   <a href="https://www.linkedin.com/in/codyum"><img alt="LinkedIn" src="https://img.shields.io/badge/Cody_Um-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
